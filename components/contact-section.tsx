@@ -134,8 +134,8 @@ export function ContactSection() {
                     <Mail className="h-6 w-6 text-primary mr-3" />
                     <h3 className="text-lg font-semibold">Email Us</h3>
                   </div>
-                  <p className="text-muted-foreground">hello@dreams.com</p>
-                  <p className="text-muted-foreground">support@dreams.com</p>
+                  <p className="text-muted-foreground">9s3dreams@gmail.com</p>
+                  <p className="text-muted-foreground">9s3dreams@gmail.com</p>
                 </CardContent>
               </Card>
 
@@ -145,8 +145,8 @@ export function ContactSection() {
                     <Phone className="h-6 w-6 text-primary mr-3" />
                     <h3 className="text-lg font-semibold">Call Us</h3>
                   </div>
-                  <p className="text-muted-foreground">+91 (555) 123-4567</p>
-                  <p className="text-muted-foreground">+91 (555) 987-6543</p>
+                  <p className="text-muted-foreground">+91 7510213873</p>
+                  <p className="text-muted-foreground">+91 7510213873</p>
                 </CardContent>
               </Card>
 

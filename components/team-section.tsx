@@ -9,7 +9,7 @@ const teamMembers = [
   {
     name: "Anas",
     role: "CEO & Founder",
-    image: "/logo.png",
+    image: "/Anas.jpeg",
     initials: "SJ",
     bio: "Visionary leader with 15+ years in digital marketing and business strategy.",
     social: { linkedin: "#", twitter: "#" },
@@ -17,7 +17,7 @@ const teamMembers = [
   {
     name: "Abhimanyu",
     role: "COO",
-    image: "/logo.png",
+    image: "/Abhimanyu.jpeg",
     initials: "MC",
     bio: "Operations expert ensuring seamless project delivery and client satisfaction.",
     social: { linkedin: "#", twitter: "#" },
@@ -25,7 +25,7 @@ const teamMembers = [
   {
     name: "Swalih",
     role: "Creative Director",
-    image: "/logo.png",
+    image: "/Swalih.jpeg",
     initials: "ER",
     bio: "Award-winning designer crafting compelling visual stories for brands.",
     social: { linkedin: "#", twitter: "#" },
@@ -33,7 +33,7 @@ const teamMembers = [
   {
     name: "Rilwan",
     role: "Marketing Head",
-    image: "/logo.png",
+    image: "/Rilwan.jpeg",
     initials: "DK",
     bio: "Strategic marketer with expertise in multi-channel campaign optimization.",
     social: { linkedin: "#", twitter: "#" },

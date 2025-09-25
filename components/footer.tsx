@@ -1,4 +1,4 @@
-import { Facebook, Twitter, Instagram, Linkedin, Mail } from "lucide-react"
+import { Facebook, Twitter, Instagram, Linkedin, Mail, Youtube } from "lucide-react"
 
 export function Footer() {
   return (
@@ -12,19 +12,19 @@ export function Footer() {
               Transforming businesses through innovative digital marketing strategies. Your success is our mission.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.facebook.com/share/1Az3SUUJxz/" className="text-muted-foreground hover:text-primary transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.instagram.com/g9s3dreams?igsh=MTd2ZXdnenJscWIwMw==" className="text-muted-foreground hover:text-primary transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                <Linkedin className="h-5 w-5" />
+              <a href="https://www.youtube.com/@9s3dreams" className="text-muted-foreground hover:text-primary transition-colors">
+                <Youtube className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="9s3dreams@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-5 w-5" />
               </a>
             </div>
